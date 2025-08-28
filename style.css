@@ -1,0 +1,28 @@
+h1 {
+    color: yellow;
+}
+
+p {
+    color: purple;
+    font-size: 25px;
+}
+
+#header-2 {
+    color: blue;
+    text-decoration: underline;
+}
+ 
+.l-css {
+    color: green;
+    font-size: 25px;
+}
+
+* {
+    margin: 30;
+    padding: 10;
+    background-color: darkgrey;
+    font-size: 30px;
+    line-height: 5px;
+    letter-spacing: 1.5;
+    text-align: middle;
+}
